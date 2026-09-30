@@ -1,22 +1,190 @@
-<h1 align="center">Hi 👋, I'm Carlos Henrique</h1>
+<!-- =========================================================
+     CARLOS HENRIQUE • GITHUB PROFILE README
+     Java | Spring Boot | Backend Development
+========================================================= -->
+
 <p align="center">
-  <strong>Computer Science Student at UESB. Currently studying web application development with Java and Spring Boot.</strong>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0d47a1,50:1976d2,100:42a5f5&height=220&section=header&text=Carlos%20Henrique&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Java%20%7C%20Spring%20Boot%20%7C%20Backend%20Development&descAlignY=60&descSize=18"
+    alt="Carlos Henrique profile banner"
+  />
 </p>
 
-### Connect with me
+<p align="center">
+  <a href="https://github.com/CarlosHenriqueSL">
+    <img src="https://img.shields.io/badge/GitHub-CarlosHenriqueSL-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/carlos-henrique-15742b255/">
+    <img src="https://img.shields.io/badge/LinkedIn-Carlos%20Henrique-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:carloshenrique23009@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:carloshenrique23009@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-henrique-15742b255/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CarlosHenriqueSL)
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=1000&color=1976D2&center=true&vCenter=true&width=750&lines=Java+Backend+Developer;Studying+software+architecture"
+    alt="Animated introduction"
+  />
+</p>
 
-### Languages and Tools
+---
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)	
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=07405E)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
+## 👋 About Me
+
+I'm **Carlos Henrique**, a Computer Science student at **UESB** and a Java backend developer in progress.
+
+My current focus is the development of reliable and maintainable applications using **Java**, **Spring Boot**, REST APIs, databases and software architecture principles.
+
+I enjoy understanding how systems work internally, organizing code into clear layers and turning study projects into practical solutions.
+
+```java
+public class CarlosHenrique {
+
+    private final String role = "Java Backend Developer in progress";
+    private final String university = "UESB";
+    private final String mainStack = "Java + Spring Boot";
+
+    public String currentFocus() {
+        return "Building well-structured backend applications and learning every day.";
+    }
+}
+```
+---
+
+## 🚀 Current Focus
+
+- Backend development with Java;
+- Spring Boot and REST API design;
+- Object-Oriented Programming;
+- Layered architecture and clean code;
+- JPA, Hibernate and JDBC;
+- Relational and NoSQL databases;
+- Unit and integration testing;
+- API documentation with OpenAPI and Swagger;
+- Git, GitHub and collaborative development;
+- Connecting frontend applications to backend services.
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,c,typescript,javascript,html,css&perline=6" alt="Programming languages"/>
+</p>
+
+### Backend and Frameworks
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=spring,maven&perline=6" alt="Backend technologies"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Spring%20Data-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Data"/>
+  <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs"/>
+  <img src="https://img.shields.io/badge/JPA%20%2F%20Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="JPA and Hibernate"/>
+</p>
+
+### Databases
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite&perline=6" alt="Databases"/>
+</p>
+
+### Tools and Platforms
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,linux,vscode,docker&perline=6" alt="Tools and platforms"/>
+</p>
+
+---
+
+## 📚 Currently Learning
+
+- Advanced Java and object-oriented design;
+- Spring Boot ecosystem;
+- REST API architecture;
+- Database modeling and persistence;
+- JPA, Hibernate and JDBC;
+- Automated testing;
+- Software architecture;
+- Docker and development environments;
+- Secure and scalable backend applications;
+- Professional English for technology.
+
+---
+
+## 📊 GitHub Overview
+
+<p align="center">
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=CarlosHenriqueSL&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false"
+    alt="GitHub statistics"
+  />
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosHenriqueSL&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    alt="Most used programming languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=CarlosHenriqueSL&theme=tokyonight&hide_border=true&background=1a1b27&ring=70a5fd&fire=70a5fd&currStreakLabel=70a5fd"
+    alt="GitHub contribution streak"
+  />
+</p>
+
+---
+
+## 🎯 Professional Goals
+
+- Start my professional career as a Java backend developer;
+- Improve my knowledge of Java and Spring Boot;
+- Build robust, secure and scalable APIs;
+- Strengthen my understanding of software architecture;
+- Contribute to real-world and collaborative projects;
+- Continue developing practical experience through consistent projects;
+- Create software that solves real problems and delivers value.
+
+---
+
+## 🌎 Languages
+
+- **Portuguese:** Native;
+- **English:** Intermediate, continuously improving;
+- **Spanish:** Basic.
+
+---
+
+## 🤝 Let's Connect
+
+I'm open to new opportunities, collaborations and conversations about software development, backend engineering and technology.
+
+<p align="center">
+  <a href="mailto:carloshenrique23009@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact by email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/carlos-henrique-15742b255/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"/>
+  </a>
+  <a href="https://github.com/CarlosHenriqueSL">
+    <img src="https://img.shields.io/badge/GitHub-My%20projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>Building knowledge, one project at a time.</i>
+</p>
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:42a5f5,50:1976d2,100:0d47a1&height=120&section=footer"
+    alt="Profile footer"
+  />
+</p>
