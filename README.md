@@ -140,6 +140,35 @@ public class CarlosHenrique {
   />
 </p>
 
+## 📌 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/CarlosHenriqueSL/rest-with-spring-boot-java">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosHenriqueSL&repo=rest-with-spring-boot-java&theme=tokyonight&hide_border=true"
+      alt="Rest With Spring Boot Java"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/CarlosHenriqueSL/Java-Projects">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosHenriqueSL&repo=Java-Projects&theme=tokyonight&hide_border=true"
+      alt="Java Projects"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/CarlosHenriqueSL/feirinha-uesb">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosHenriqueSL&repo=feirinha-uesb&theme=tokyonight&hide_border=true"
+      alt="Feirinha UESB"
+    />
+  </a>
+</p>
+
 ---
 
 ## 🎯 Professional Goals
