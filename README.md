@@ -14,7 +14,7 @@
   <a href="https://github.com/CarlosHenriqueSL">
     <img src="https://img.shields.io/badge/GitHub-CarlosHenriqueSL-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://www.linkedin.com/in/carlos-henrique-15742b255/">
+  <a href="https://www.linkedin.com/in/carlos-henrique-sl-dev/">
     <img src="https://img.shields.io/badge/LinkedIn-Carlos%20Henrique-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:carloshenrique23009@gmail.com">
@@ -199,7 +199,7 @@ I'm open to new opportunities, collaborations and conversations about software d
   <a href="mailto:carloshenrique23009@gmail.com">
     <img src="https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact by email"/>
   </a>
-  <a href="https://www.linkedin.com/in/carlos-henrique-15742b255/">
+  <a href="https://www.linkedin.com/in/carlos-henrique-sl-dev/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"/>
   </a>
   <a href="https://github.com/CarlosHenriqueSL">
