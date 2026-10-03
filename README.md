@@ -186,8 +186,7 @@ public class CarlosHenrique {
 ## 🌎 Languages
 
 - **Portuguese:** Native;
-- **English:** Intermediate, continuously improving;
-- **Spanish:** Basic.
+- **English:** Advanced, continuously improving;
 
 ---
 
